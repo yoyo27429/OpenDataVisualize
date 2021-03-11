@@ -1,0 +1,45 @@
+
+h1 {
+  text-align: center;
+}
+.bar{
+  position: relative;
+}
+.male {
+  fill: #22a5bf;
+}
+.female{
+  fill: #ed5847;
+}
+.under20{
+  fill: #ffdb66;
+}
+.between2124{
+  fill: #9cc266;
+}
+.between2529{
+  fill: #499f72;
+}
+.over30{
+  fill: #0d4f5c;
+}
+form{
+  margin-left: 25%;
+}
+.selection{
+  /* background-color: #fff; */
+  float: left;
+  margin-left: 5%;
+}
+.bartip {
+  width: 200px;
+  position: absolute;
+  z-index: 10;
+  visibility: hidden;
+  background-color: #cfd4d1;
+  text-align: center;
+  padding: 2px;
+  border-radius: 2px;
+  font-weight: bold;
+  color: black;
+}

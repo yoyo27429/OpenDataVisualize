@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <!-- <script src="https://d3js.org/d3.v5.min.js" type="text/jscript"></script> -->
+  <script src="https://d3js.org/d3.v4.min.js" type="text/jscript"></script>
+  <script src="//d3js.org/topojson.v1.min.js"></script>
+  <!-- <script src="./js/script.js" charset="utf-8"></script> -->
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
+  <script src="./js/script4.js" charset="utf-8"></script>
+  <!-- <script src="./js/draw.js"></script> -->
+  <link href="./css/style.css" rel="stylesheet">
+</head>
+<body>
+  <h1>COPM6214 Open Data Innovation Coursework 1</h1>
+
+  <svg width = "1060" height = "800"></svg>
+  <form id="condiction">
+    <select id = "region" class="selection" name="YourLocation" onchange="openJSON()">
+      <option value="" selected disabled hidden>Choose region</option>
+    　<option value="SEAS">South East</option>
+    　<option value="LOND">London</option>
+    　<option value="NWES">North West</option>
+    　<option value="EAST">East of England</option>
+      <option value="WMID">West Midlands</option>
+      <option value="SWES">South West</option>
+      <option value="YORH">Yorkshire and the Humber</option>
+      <option value="EMID">East Midlands</option>
+      <option value="NEAS">North East</option>
+      <option value="SCOT">Scotland</option>
+      <option value="Wale">Wales</option>
+    </select>
+    <div class="selection" onchange="openJSON()">
+      <input type="radio" name="condiction" value="gender" checked>Gender
+      <input type="radio" name="condiction" value="age">Age
+    </div>
+  </form>
+  <!-- <script>
+    document.getElementById('region').addEventListener('click', clicked);
+    function clicked(){
+      const region = document.getElementById('region').value;
+      openJSON(region, 'age');
+    }
+
+  </script> -->
+</body>
+</html>

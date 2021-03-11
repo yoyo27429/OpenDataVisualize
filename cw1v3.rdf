@@ -1,0 +1,2224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:uni=""
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10000291">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">EAST</region>
+	<owl:sameAs>Anglia Ruskin University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">12760</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8170</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6565</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5150</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2860</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6345</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007759">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WMID</region>
+	<owl:sameAs>Aston University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5990</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6500</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6610</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3835</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">975</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1065</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10000571">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SWES</region>
+	<owl:sameAs>Bath Spa University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5185</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2445</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4065</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1835</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">555</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1180</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007850">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SWES</region>
+	<owl:sameAs>The University of Bath</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7510</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8645</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8600</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4780</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1075</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1700</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007152">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">EAST</region>
+	<owl:sameAs>University of Bedfordshire</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8915</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5485</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4310</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4285</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1930</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3875</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007760">
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">940</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2085</has2124>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>Birkbeck College</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6555</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5680</hasMale>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2795</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6430</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007140">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WMID</region>
+	<owl:sameAs>Birmingham City University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">15240</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8820</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10055</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6380</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2740</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4890</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10006840">
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">18900</hasFemale>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WMID</region>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">14930</hasMale>
+	<owl:sameAs>The University of Birmingham</owl:sameAs>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">15590</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9095</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3090</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6055</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10000712">
+	<owl:sameAs>University College Birmingham</owl:sameAs>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WMID</region>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3535</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1490</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2195</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1760</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">490</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">580</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007811">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">EMID</region>
+	<owl:sameAs>Bishop Grosseteste University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1800</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">435</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1105</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">520</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">200</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">410</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10006841">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NWES</region>
+	<owl:sameAs>The University of Bolton</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3520</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2800</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1750</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1510</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">845</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2215</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10000385">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SWES</region>
+	<owl:sameAs>The Arts University Bournemouth</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2285</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">950</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2140</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">925</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">105</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">70</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10000824">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SWES</region>
+	<owl:sameAs>Bournemouth University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10955</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8090</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8005</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4810</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1900</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4325</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007785">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">YORH</region>
+	<owl:sameAs>The University of Bradford</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6210</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5000</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4280</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3075</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1205</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2650</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10000886">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SEAS</region>
+	<owl:sameAs>The University of Brighton</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">12615</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8515</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8630</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5340</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2335</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4820</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007786">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SWES</region>
+	<owl:sameAs>The University of Bristol</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11685</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10205</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">15</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11865</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6660</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1690</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1690</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10000961">
+	<owl:sameAs>Brunel University London</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6490</hasFemale>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7675</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6605</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4430</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1580</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1550</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10000975">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SEAS</region>
+	<owl:sameAs>Buckinghamshire New University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5090</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3490</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3180</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1850</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">925</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2620</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007787">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SEAS</region>
+	<owl:sameAs>The University of Buckingham</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1105</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1290</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">515</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">730</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">460</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">690</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007788">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">EAST</region>
+	<owl:sameAs>The University of Cambridge</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9025</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10630</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8805</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6220</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2655</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1975</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10003324">
+	<owl:sameAs>The Institute of Cancer Research</owl:sameAs>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">110</hasMale>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">165</hasFemale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">30</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">75</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">170</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10001143">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SEAS</region>
+	<owl:sameAs>Canterbury Christ Church University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10995</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5060</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5950</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3280</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1805</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5020</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007141">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NWES</region>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<owl:sameAs>The University of Central Lancashire</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">13830</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10630</hasMale>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9275</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6140</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2815</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6230</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007848">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NWES</region>
+	<owl:sameAs>University of Chester</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10100</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4820</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6110</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2895</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1530</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4375</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007137">
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3435</hasFemale>
+	<owl:sameAs>The University of Chichester</owl:sameAs>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SEAS</region>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2085</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3005</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1285</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">330</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">900</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10001478">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>City, University of London†</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10610</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8385</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5905</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6420</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3065</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3605</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10001653">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>Conservatoire for Dance and Drama</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">790</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">520</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">680</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">440</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">135</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">50</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007761">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>Courtauld Institute of Art</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">400</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">105</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">135</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">210</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">85</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">80</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10001726">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WMID</region>
+	<owl:sameAs>Coventry University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">13890</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">15530</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">13675</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8835</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2745</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4175</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007822">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">EAST</region>
+	<owl:sameAs>Cranfield University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">930</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3055</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1070</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">850</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2050</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10006427">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SEAS</region>
+	<owl:sameAs>University for the Creative Arts</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3400</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1405</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2790</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1495</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">215</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">300</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007842">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NWES</region>
+	<owl:sameAs>University of Cumbria</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6020</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2770</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2870</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2035</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1190</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2695</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10001883">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">EMID</region>
+	<owl:sameAs>De Montfort University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11905</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8995</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9815</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5485</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1935</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3670</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007851">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">EMID</region>
+	<owl:sameAs>University of Derbyshire</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9230</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7070</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6395</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3810</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1770</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4320</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007143">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NEAS</region>
+	<owl:sameAs>University of Durham</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9600</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8210</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10475</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4605</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1245</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1480</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007789">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">EAST</region>
+	<owl:sameAs>The University of East Anglia</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9835</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6305</hasMale>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2485</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7315</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4765</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1580</has2529>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007144">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>The University of East London</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8655</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4975</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3640</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3790</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1895</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4300</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007823">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NWES</region>
+	<owl:sameAs>Edge Hill University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10615</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4925</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6620</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2880</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1745</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4295</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007791">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">EAST</region>
+	<owl:sameAs>The University of Essex</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7915</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5880</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6900</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3510</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1050</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2340</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007792">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SWES</region>
+	<owl:sameAs>The University of Exeter</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11795</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9865</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">13495</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5345</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1205</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1620</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10008640">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SWES</region>
+	<owl:sameAs>Falmouth University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2820</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1830</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3070</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1160</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">145</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">275</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10004511">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SEAS</region>
+	<owl:sameAs>The National Film and Television School</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">100</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">140</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">80</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">100</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">55</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007145">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SWES</region>
+	<owl:sameAs>University of Gloucestershire</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4585</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3250</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4070</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1945</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">540</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1275</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10002718">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>Goldsmiths College</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5715</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2810</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3230</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2560</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1320</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1415</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0.0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007146">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>The University of Greenwich</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11825</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8820</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7165</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5780</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2730</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4975</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007825">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>Guildhall School of Music and Drama</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">465</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">470</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">365</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">375</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">145</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">45</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10040812">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WMID</region>
+	<owl:sameAs>Harper Adams University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2745</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2835</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1715</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1465</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">760</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1625</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007147">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">EAST</region>
+	<owl:sameAs>University of Hertfordshire</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">14125</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10530</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10465</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6130</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2430</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5625</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007765">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>Heythrop College</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">250</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">310</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">120</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">95</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">50</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">290</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007148">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">YORH</region>
+	<owl:sameAs>The University of Huddersfield</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11005</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8265</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7855</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5400</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1975</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4040</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007149">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">YORH</region>
+	<owl:sameAs>The University of Hull</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9060</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7245</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7120</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4055</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1590</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3540</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10003270">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>Imperial College of Science, Technology and Medicine</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6505</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10530</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6090</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7105</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2360</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1475</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007767">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WMID</region>
+	<owl:sameAs>Keele University†</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5940</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4180</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5090</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2325</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">870</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1835</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007150">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SEAS</region>
+	<owl:sameAs>The University of Kent</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10315</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9355</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11290</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5200</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1430</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1745</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10003645">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>King's College London</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">18140</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10745</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">15</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9820</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8635</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4365</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6080</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10003678">
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11530</hasFemale>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2665</has2529>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6690</has2124>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9295</hasMale>
+	<owl:sameAs>Kingston University</owl:sameAs>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">55</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8035</hasUnder20>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3495</hasOver30>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007768">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NWES</region>
+	<owl:sameAs>The University of Lancaster</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6695</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6420</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7480</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3230</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">805</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1600</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10003854">
+	<owl:sameAs>Leeds College of Art</owl:sameAs>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">YORH</region>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">980</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">340</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">890</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">340</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">40</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">45</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10003861">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">YORH</region>
+	<owl:sameAs>Leeds Beckett University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">13705</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">12215</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">13045</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5955</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2065</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4850</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007795">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">YORH</region>
+	<owl:sameAs>The University of Leeds</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">19275</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">12515</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">15970</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9340</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2740</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3735</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10003863">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">YORH</region>
+	<owl:sameAs>Leeds Trinity University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2445</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1270</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2070</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">970</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">325</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">350</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007796">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">EMID</region>
+	<owl:sameAs>The University of Leicester</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9615</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8205</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7740</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5160</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1965</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2955</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007151">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">EMID</region>
+	<owl:sameAs>The University of Lincoln</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7270</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6200</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7490</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2840</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">950</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2195</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10003956">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NWES</region>
+	<owl:sameAs>Liverpool Hope University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3405</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1535</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2590</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1405</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">370</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">575</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10003957">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NWES</region>
+	<owl:sameAs>Liverpool John Moores University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11980</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9895</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11425</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5360</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1945</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3145</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10003945">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NWES</region>
+	<owl:sameAs>The Liverpool Institute for Performing Arts</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">385</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">330</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">475</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">210</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">25</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10006842">
+	<owl:sameAs>The University of Liverpool†</owl:sameAs>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NWES</region>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">13500</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11275</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">12670</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7845</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2120</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2140</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10003958">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NWES</region>
+	<owl:sameAs>Liverpool School of Tropical Medicine†</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">275</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">150</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">55</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">185</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">180</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007162">
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4725</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">15</hasOtherGender>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>University of the Arts, London</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">13465</hasFemale>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7250</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7255</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2115</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1580</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007769">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>London Business School</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">655</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1420</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">240</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">760</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1065</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007797">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>University of London (Institutes and activities)</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">110</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">85</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">25</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">30</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">140</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10004048">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>London Metropolitan University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7905</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4960</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2615</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4030</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2380</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3830</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10004078">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>London South Bank University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10330</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7275</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3700</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4165</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3440</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6305</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10004063">
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5375</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5055</hasMale>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>London School of Economics and Political Science</owl:sameAs>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3855</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3990</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1520</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1080</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007771">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>London School of Hygiene and Tropical Medicine</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">815</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">395</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">220</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">390</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">595</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10004113">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">EMID</region>
+	<owl:sameAs>Loughborough University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6490</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10460</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9300</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5175</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1000</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1475</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10004180">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NWES</region>
+	<owl:sameAs>The Manchester Metropolitan University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">18890</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">13600</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">16585</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9095</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2555</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4250</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007798">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NWES</region>
+	<owl:sameAs>The University of Manchester</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">21020</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">18685</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">18805</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">12910</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3855</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4135</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10004351">
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6870</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5760</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2135</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4340</hasOver30>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>Middlesex University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11325</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7780</hasMale>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007799">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NEAS</region>
+	<owl:sameAs>Newcastle University†</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11945</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11850</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">12635</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7285</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1980</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1895</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007832">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WMID</region>
+	<owl:sameAs>Newman University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2130</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">680</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1185</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">790</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">295</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">540</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007138">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">EMID</region>
+	<owl:sameAs>The University of Northampton</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8230</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4755</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5195</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2955</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1315</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3520</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10001282">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NEAS</region>
+	<owl:sameAs>University of Northumbria at Newcastle</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">15155</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">12010</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">12070</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7345</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2565</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5190</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10004775">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">EAST</region>
+	<owl:sameAs>Norwich University of the Arts</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1205</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">785</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1315</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">530</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">60</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">90</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007154">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">EMID</region>
+	<owl:sameAs>University of Nottingham</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">17570</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">14540</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">16160</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8765</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3070</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4125</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10004797">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">EMID</region>
+	<owl:sameAs>The Nottingham Trent University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">15605</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">12300</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">20</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">15520</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7820</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1960</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2620</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007773">
+	<owl:sameAs>The Open University in England†</owl:sameAs>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4435</hasUnder20>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">60925</hasFemale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">40560</hasMale>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SEAS</region>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">13925</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">19290</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">63835</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10004930">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SEAS</region>
+	<owl:sameAs>Oxford  Uni at Brookes</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10705</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7135</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7335</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4915</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1995</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3575</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">15</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007774">
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3975</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5865</hasOver30>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SEAS</region>
+	<owl:sameAs>The University of Oxford</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11775</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">13065</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">20</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8675</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6290</has2124>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">55</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/32XDFRG87">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SWES</region>
+	<owl:sameAs>Plymouth College of Art</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">770</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">425</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">615</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">295</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">85</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">200</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007801">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SWES</region>
+	<owl:sameAs>University of Plymouth</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">12965</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10190</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9635</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6295</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2415</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4810</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007155">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SEAS</region>
+	<owl:sameAs>The University of Portsmouth</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9830</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">12230</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11035</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6530</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1630</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2865</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007775">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>Queen Mary University of London</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9145</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7990</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8525</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5225</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1940</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1450</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10005389">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>Ravensbourne</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1030</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1165</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1420</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">600</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">95</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">75</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007802">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SEAS</region>
+	<owl:sameAs>The University of Reading</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8515</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6460</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7865</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3645</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1240</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2225</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007776">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>Roehampton University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6175</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2575</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4205</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2120</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">855</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1575</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10005523">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>Rose Bruford College</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">415</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">345</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">385</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">185</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">55</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">135</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007835">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>Royal Academy of Music</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">375</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">385</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">255</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">355</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">130</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">20</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10005545">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SWES</region>
+	<owl:sameAs>Royal Agricultural University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">545</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">655</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">635</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">380</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">90</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">100</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007777">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>Royal College of Art</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1015</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">595</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">560</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">630</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">410</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007778">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>Royal College of Music</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">415</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">395</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">265</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">370</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">135</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">45</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007816">
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">415</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">330</has2124>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>The Royal Central School of Speech and Drama</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">690</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">350</hasMale>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">135</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">165</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10005553">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SEAS</region>
+	<owl:sameAs>Royal Holloway and Bedford New College</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5980</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4005</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5585</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2490</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">865</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1045</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007837">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NWES</region>
+	<owl:sameAs>Royal Northern College of Music</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">435</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">470</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">410</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">355</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">105</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">40</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007779">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>The Royal Veterinary College</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1750</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">535</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">800</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">790</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">345</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">350</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007782">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>St George's, University of London†</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4195</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1730</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1205</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1160</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1180</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2380</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007843">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>St Mary's University, Twickenham</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3065</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2470</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2615</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1460</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">580</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">875</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007156">
+	<owl:sameAs>The University of Salford</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10945</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9575</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7790</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5120</has2124>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NWES</region>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2825</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4780</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007780">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>The School of Oriental and African Studies</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3855</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2220</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1845</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1970</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1045</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1210</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10005790">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">YORH</region>
+	<owl:sameAs>Sheffield Hallam University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">17265</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">14220</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">14625</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8455</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3060</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5345</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007157">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">YORH</region>
+	<owl:sameAs>The University of Sheffield</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">14275</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">13650</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">13350</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8890</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2555</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3130</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10006022">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SEAS</region>
+	<owl:sameAs>Southampton Solent University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4500</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6785</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5925</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3445</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">895</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1020</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007158">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SEAS</region>
+	<owl:sameAs>The University of Southampton</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">13295</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11580</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">12185</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7370</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2580</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2745</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10006299">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WMID</region>
+	<owl:sameAs>Staffordshire University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7990</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7870</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4880</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3995</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2080</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4900</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10037449">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SWES</region>
+	<owl:sameAs>University of St Mark and St John</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1345</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1015</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1105</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">560</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">265</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">425</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10014001">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">EAST</region>
+	<owl:sameAs>University of Suffolk†</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3385</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1645</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1400</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1055</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">730</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1840</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007159">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NEAS</region>
+	<owl:sameAs>The University of Sunderland</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7365</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5630</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4970</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3805</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1570</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2650</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007160">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SEAS</region>
+	<owl:sameAs>The University of Surrey</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8370</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6680</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7040</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4145</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1455</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2405</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007806">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SEAS</region>
+	<owl:sameAs>The University of Sussex</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8275</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6875</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7565</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4925</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1270</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1395</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007161">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NEAS</region>
+	<owl:sameAs>Teesside University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9895</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8680</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5510</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4185</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2650</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6235</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10008017">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>Trinity Laban Conservatoire of Music and Dance</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">615</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">370</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">470</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">330</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">115</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">70</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007784">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>University College London</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">21410</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">15725</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11880</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">12465</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6285</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6510</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007163">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WMID</region>
+	<owl:sameAs>The University of Warwick</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">12520</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">12115</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">35</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10495</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6720</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2430</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5020</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007164">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SWES</region>
+	<owl:sameAs>University of the West of England, Bristol</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">15490</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">12225</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10260</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7800</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3445</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6210</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10006566">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>The University of West London</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6580</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3830</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2785</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2675</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1540</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3405</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007165">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">LOND</region>
+	<owl:sameAs>The University of Westminster</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11955</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8240</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9515</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6240</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2265</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2175</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10003614">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SEAS</region>
+	<owl:sameAs>The University of Winchester</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5100</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2435</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4405</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1550</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">435</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1150</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007166">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WMID</region>
+	<owl:sameAs>The University of Wolverhampton</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11970</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7815</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6680</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5295</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2360</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5450</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007139">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WMID</region>
+	<owl:sameAs>University of Worcester</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6950</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3510</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4210</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2310</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1050</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2880</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007657">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NARNIA</region>
+	<owl:sameAs>Writtle University College†</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">585</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">220</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">430</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">200</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">65</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">110</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007713">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">YORH</region>
+	<owl:sameAs>York St John University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4090</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1890</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3565</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1320</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">325</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">765</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007167">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">YORH</region>
+	<owl:sameAs>The University of York</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9730</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7420</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9220</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4150</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1510</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2280</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/">
+	<owl:sameAs>Total England</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1050815</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">810210</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">320</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">769730</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">500930</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">208700</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">381810</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">175</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007856">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WALE</region>
+	<owl:sameAs>Aberystwyth University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4340</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4420</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4765</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2105</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">535</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1355</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007857">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WALE</region>
+	<owl:sameAs>Bangor University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6000</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4630</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4950</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2725</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">945</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1995</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">15</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007814">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WALE</region>
+	<owl:sameAs>Cardiff University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">18095</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">12575</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">13065</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8880</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3320</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5405</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007854">
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6585</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5995</hasMale>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5025</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3595</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1670</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2290</hasOver30>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WALE</region>
+	<owl:sameAs>Cardiff Metropolitan University</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007833">
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3625</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3035</hasMale>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WALE</region>
+	<owl:sameAs>Glyndŵr University</owl:sameAs>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2085</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1330</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">955</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2290</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007773">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WALE</region>
+	<owl:sameAs>The Open University in Wales†</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3975</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2750</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">320</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">885</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1330</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4195</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007855">
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8230</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9215</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8880</hasUnder20>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WALE</region>
+	<owl:sameAs>Swansea University</owl:sameAs>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4100</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1545</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2915</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007858">
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5605</hasFemale>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WALE</region>
+	<owl:sameAs>University of Wales Trinity Saint David</owl:sameAs>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4315</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3280</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2600</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1130</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2920</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007793">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WALE</region>
+	<owl:sameAs>University of South Wales</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">13485</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11750</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">30</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8800</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6450</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3225</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6790</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10008574">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">WALE</region>
+	<owl:sameAs>The University of Wales (central functions)</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/">
+	<owl:sameAs>Total Wales</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">69935</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">58690</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">50</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">51170</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">32665</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">14660</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">30160</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">25</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007783">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SCOT</region>
+	<owl:sameAs>The University of Aberdeen</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7905</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6100</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5460</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4740</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1640</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2165</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007849">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SCOT</region>
+	<owl:sameAs>University of Abertay Dundee</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1870</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2135</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1720</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1400</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">420</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">460</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007852">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SCOT</region>
+	<owl:sameAs>The University of Dundee</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9380</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5535</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4960</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3960</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1885</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4100</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007772">
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7035</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5550</hasMale>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4665</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3885</has2124>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SCOT</region>
+	<owl:sameAs>Edinburgh Napier University</owl:sameAs>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1555</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2460</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">20</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007790">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SCOT</region>
+	<owl:sameAs>The University of Edinburgh</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">18075</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">12255</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">20</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">13290</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10505</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3355</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3205</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007762">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SCOT</region>
+	<owl:sameAs>Glasgow Caledonian University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9880</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6700</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6120</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4415</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2285</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3760</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10002681">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SCOT</region>
+	<owl:sameAs>Glasgow School of Art</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1310</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">730</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">15</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">735</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">805</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">290</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">225</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007794">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SCOT</region>
+	<owl:sameAs>The University of Glasgow</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">16090</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11125</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10635</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9290</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3270</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4025</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007764">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SCOT</region>
+	<owl:sameAs>Heriot-Watt University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4285</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6175</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4290</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3445</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1380</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1350</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007773">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SCOT</region>
+	<owl:sameAs>The Open University in Scotland†</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8535</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6130</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1595</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1525</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2455</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9095</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10005337">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SCOT</region>
+	<owl:sameAs>Queen Margaret University, Edinburgh</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4080</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1205</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1660</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1320</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">690</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1615</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10005500">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SCOT</region>
+	<owl:sameAs>The Robert Gordon University</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7560</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5190</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4460</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3450</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1590</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3255</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10005561">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SCOT</region>
+	<owl:sameAs>Royal Conservatoire of Scotland</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">605</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">480</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">495</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">390</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">120</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">80</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007803">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SCOT</region>
+	<owl:sameAs>The University of St Andrews</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6210</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4530</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5585</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3325</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">970</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">865</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10005700">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SCOT</region>
+	<owl:sameAs>SRUC</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">795</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">785</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">850</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">280</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">155</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">290</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007804">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SCOT</region>
+	<owl:sameAs>The University of Stirling</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7435</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4405</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4615</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3360</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1315</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2550</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007805">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SCOT</region>
+	<owl:sameAs>The University of Strathclyde</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10910</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10510</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">50</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">8680</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5545</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2395</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4845</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007114">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SCOT</region>
+	<owl:sameAs>University of the Highlands and Islands</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4790</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3625</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3020</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1470</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">920</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3005</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007800">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">SCOT</region>
+	<owl:sameAs>The University of the West of Scotland</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9805</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5735</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5065</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">3945</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2170</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">4375</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/">
+	<owl:sameAs>Total Scotland</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">136550</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">98905</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">110</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">87905</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">67050</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">28855</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">51725</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">25</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10005343">
+	<owl:sameAs>The Queen's University of Belfast</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">13405</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">10465</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9285</hasUnder20>
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NIRE</region>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6615</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2475</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5495</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007773">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NIRE</region>
+	<owl:sameAs>The Open University in Northern Ireland†</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2030</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1705</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">120</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">460</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">765</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2390</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10008026">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NIRE</region>
+	<owl:sameAs>St Mary's University College</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">730</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">310</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">580</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">295</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">75</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">90</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10008010">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NIRE</region>
+	<owl:sameAs>Stranmillis University College</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1150</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">290</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">665</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">460</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">125</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">190</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/10007807">
+	<region xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">NIRE</region>
+	<owl:sameAs>University of Ulster</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">14060</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">11095</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">9155</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">7355</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">2705</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">5940</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.learning-provider.data.ac.uk/ukprn/">
+	<owl:sameAs>Total Northern Ireland</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">31380</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">23865</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">19810</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">15185</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">6145</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">14105</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">0</hasUnknownAge>
+	<owl:sameAs>Total UK</owl:sameAs>
+	<hasFemale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">1288680</hasFemale>
+	<hasMale xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">991670</hasMale>
+	<hasOtherGender xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">480</hasOtherGender>
+	<hasUnder20 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">928610</hasUnder20>
+	<has2124 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">615830</has2124>
+	<has2529 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">258360</has2529>
+	<hasOver30 xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">477805</hasOver30>
+	<hasUnknownAge xmlns="http://www.semanticweb.org/chris/ontologies/2020/2/untitled-ontology-8#">225</hasUnknownAge>
+</rdf:Description>
+
+</rdf:RDF>
